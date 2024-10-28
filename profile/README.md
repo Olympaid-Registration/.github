@@ -1,8 +1,9 @@
 
 ## NSA - IT Department
-**Manager**: Fizza Rasool
+## Head: Shaukat Sohail /shaukat456
 
-**Head**: Shaukat Sohail
+## Manager: Fizza Rasool
+
 
 The NSA - IT Department is at the heart of NSA. Its mission is to keep the NED University community informed, engaged, and connected. Beyond technical support, the IT Department is committed to driving forward the society’s vision of enhancing student life through innovative technology solutions. From ensuring seamless communication to developing user-friendly platforms, the team strives to bridge the gap between students and the resources they need to succeed, both academically and socially.
 
